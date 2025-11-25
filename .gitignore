@@ -1,0 +1,95 @@
+# === C# / .NET ===
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono / Xamarin
+mono_crash.*
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+artifacts/
+
+# Test result folders
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# ClickOnce / publishing
+*.Publish.xml
+*.publishsettings
+AppPackages/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Other intermediate / temp files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+
+# NuGet / packages
+*.nupkg
+**/packages/*
+!**/packages/build/    # if build folder in packages is needed
+
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Databases / SQL Server
+*.mdf
+*.ldf
+
+# IDE / tooling
+.vs/
+*.vc.db
+*.vc.opendb
+.idea/
+*.DotSettings.user
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider / IntelliJ
+*.iml
+
+# Coverage
+*.coverage
+coverage/
+*.trx
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+Icon?
+.DS_Store
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Others
+*.log
